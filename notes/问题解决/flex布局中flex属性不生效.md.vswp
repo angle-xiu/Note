@@ -1,0 +1,3 @@
+vnote_backup_file_826537664 /Users/ruanyun/Documents/vnote_notebooks/notes/问题解决/flex布局中flex属性不生效.md
+## flex布局中flex属性不生效
++ 解决办法：在父容器中给定一个高度。
